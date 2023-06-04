@@ -1,0 +1,13 @@
+.col-1 {
+    flex-basis: 100%;
+  };
+
+  @media screen and (min-width: 800px) {
+    .col-1 {
+      flex-basis: 1;
+    }
+};
+
+.text-right {
+    text-align: right;
+}
